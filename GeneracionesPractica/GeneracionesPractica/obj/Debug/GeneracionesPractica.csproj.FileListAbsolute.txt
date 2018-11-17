@@ -1,0 +1,10 @@
+C:\Users\JmSaurii\source\repos\GeneracionesPractica\GeneracionesPractica\bin\Debug\GeneracionesPractica.exe.config
+C:\Users\JmSaurii\source\repos\GeneracionesPractica\GeneracionesPractica\bin\Debug\GeneracionesPractica.exe
+C:\Users\JmSaurii\source\repos\GeneracionesPractica\GeneracionesPractica\bin\Debug\GeneracionesPractica.pdb
+C:\Users\JmSaurii\source\repos\GeneracionesPractica\GeneracionesPractica\obj\Debug\GeneracionesPractica.csprojResolveAssemblyReference.cache
+C:\Users\JmSaurii\source\repos\GeneracionesPractica\GeneracionesPractica\obj\Debug\GeneracionesPractica.Form1.resources
+C:\Users\JmSaurii\source\repos\GeneracionesPractica\GeneracionesPractica\obj\Debug\GeneracionesPractica.Properties.Resources.resources
+C:\Users\JmSaurii\source\repos\GeneracionesPractica\GeneracionesPractica\obj\Debug\GeneracionesPractica.csproj.GenerateResource.cache
+C:\Users\JmSaurii\source\repos\GeneracionesPractica\GeneracionesPractica\obj\Debug\GeneracionesPractica.csproj.CoreCompileInputs.cache
+C:\Users\JmSaurii\source\repos\GeneracionesPractica\GeneracionesPractica\obj\Debug\GeneracionesPractica.exe
+C:\Users\JmSaurii\source\repos\GeneracionesPractica\GeneracionesPractica\obj\Debug\GeneracionesPractica.pdb
